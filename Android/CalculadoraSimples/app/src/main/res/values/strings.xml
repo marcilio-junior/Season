@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CalculadoraSimples</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="primeiro_numero">Primeiro Número</string>
+    <string name="segundo_numero">Segundo Número</string>
+    <string name="calcular">Calcular</string>
+    <string name="resultado">Resultado:</string>
+</resources>
